@@ -1,0 +1,89 @@
+
+
+.top
+		{
+			height: 100px;
+			background: white;
+			display: flex;
+		}
+		.Baner
+		{
+			background-image: url(banner.png); 
+			height: 500px;
+			background-size: 100% 100%;
+			padding-top:200px;
+		}
+		.cont
+		{
+			height: 450px;
+			background: yellow;
+		}
+		.DispFx
+		{
+			display: flex;
+		}
+		.Parnt
+		{
+			display: flex;
+			height: 450px;
+			background: white;
+			margin-left:auto;
+			margin-right: auto; 
+			padding-top: 30px;
+			text-align: center;
+
+		}
+		.Inf
+		{
+			text-align: center;
+			height: 450px;
+			margin-left: 30px;
+			background-color: green;
+			width: 300px;
+		}
+		.logo
+		{
+			margin-left: 200px;
+		}
+		.Linsk
+		{
+			margin-left: 300px;
+		}
+		a
+		{
+			margin-left: 50px;
+			font-size: 20px;
+			text-decoration: none;
+			color: #49cbcd
+		}
+		h1
+		{
+			text-align: center;
+			font-size: 60px;
+			color:white;
+		}
+		.Zagalovka
+		{
+
+		}
+
+		.Kartotext
+		{
+		font-size: 20px;
+		padding-right: 30px;
+		}
+		.baton
+		{
+		height: 40px;
+		background-color: #49cbcd;
+		}
+		.pravki
+		{
+			margin-left: auto;
+			margin-right: auto; 
+			border: none;
+		}
+body
+{
+	font-family: arial;
+}
